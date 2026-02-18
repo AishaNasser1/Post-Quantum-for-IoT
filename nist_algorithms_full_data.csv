@@ -1,0 +1,26 @@
+Scheme,NIST_Family,Implementation,Total_Cycles,Max_RAM,Flash,Security_Level,EAS_Class_0,EAS_Class_1,EAS_Class_2
+bikel1,BIKE (Code-based KEM),m4f,87489677,181161,181161,1,0.0,0.0,0.0
+bikel3,BIKE (Code-based KEM),m4f,225009671,198107,198107,3,0.0,0.0,0.0
+hqc-128,HQC (Code-based KEM),clean,317925277,55892,18628,1,0.0,0.0,0.0
+hqc-192,HQC (Code-based KEM),clean,970761129,110660,21104,3,0.0,0.0,0.0
+hqc-256,HQC (Code-based KEM),clean,1778950953,175972,26260,5,0.0,0.0,0.0
+ml-kem-1024,ML-KEM (Lattice KEM),clean,5264741,20352,6160,5,0.0,0.0,1.318
+ml-kem-512,ML-KEM (Lattice KEM),clean,2185051,9560,5116,1,0.0,0.752,0.985
+ml-kem-768,ML-KEM (Lattice KEM),clean,3514931,14480,5120,3,0.0,0.0,1.155
+fndsa_provisional-1024,Falcon/FN-DSA (Lattice Signature),m4f,357723604,103801,103801,5,0.0,0.0,0.0
+fndsa_provisional-512,Falcon/FN-DSA (Lattice Signature),m4f,90559972,103789,103789,1,0.0,0.0,0.0
+ml-dsa-44,ML-DSA (Lattice Signature),clean,11863456,51976,8212,2,0.0,0.0,0.0
+ml-dsa-65,ML-DSA (Lattice Signature),clean,18941894,79624,7724,3,0.0,0.0,0.0
+ml-dsa-87,ML-DSA (Lattice Signature),clean,26531579,122740,8036,5,0.0,0.0,0.0
+sphincs-sha2-128f-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,406241846,4956,4956,1,0.0,0.875,1.0
+sphincs-sha2-128s-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,8672761484,5264,5264,1,0.0,0.861,0.993
+sphincs-sha2-192f-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,725426599,5468,5444,3,0.0,1.058,1.195
+sphincs-sha2-192s-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,16975239796,5968,5968,3,0.0,1.037,1.187
+sphincs-sha2-256f-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,1477654775,8460,5728,5,0.0,1.168,1.376
+sphincs-sha2-256s-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,15346880407,8756,6084,5,0.0,1.155,1.371
+sphincs-shake-128f-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,1303429422,4184,4184,1,0.0,0.898,1.003
+sphincs-shake-128s-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,27809465148,4492,4492,1,0.0,0.884,0.997
+sphincs-shake-192f-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,2115886448,4928,4472,3,0.0,1.075,1.198
+sphincs-shake-192s-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,47942904702,5252,4984,3,0.0,1.06,1.191
+sphincs-shake-256f-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,4335038729,7928,4720,5,0.0,1.185,1.379
+sphincs-shake-256s-simple,SLH-DSA/SPHINCS+ (Hash Signature),clean,41430508488,8220,5076,5,0.0,1.173,1.374
